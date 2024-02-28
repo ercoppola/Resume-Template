@@ -52,8 +52,6 @@ body {
 	flex-basis: 1.4em;
 }
 
-.new-font{
-	font-family: "Hoefler Text"
+.body-title {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
-.new-font{
-	font-family: 'Gill Sans'
