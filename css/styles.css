@@ -6,7 +6,7 @@
 /* Styles for the body */
 
 body {
-	font-family: Baskerville, 'Palatino Linotype', Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Libre Baskerville", serif;
 	color: #620A0C;
 	background-color: #B8CAF7;
 }
@@ -53,5 +53,5 @@ body {
 }
 
 .body-title {
-	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-family:"Libre Baskerville", serif;
 }
